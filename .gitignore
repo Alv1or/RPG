@@ -233,3 +233,5 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap
+Saved/Autosaves/PackageRestoreData.json

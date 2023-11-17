@@ -1227,3 +1227,11 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.11.17-14.25.39:670][696]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2023.11.17-14.25.39:675][696]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
 [2023.11.17-14.25.39:690][697]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2023.11.17-14.27.12:117][593]LogSlate: Took 0.000150 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.11.17-14.32.40:517][908]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.11.17-14.32.40:518][908]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.11.17-14.34.22:810][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2023.11.17-14.34.22:883][ 88]LogSavePackage: Moving 'C:/Users/User/Documents/GitHub/RPG/Saved/InventoryComponentFD3FA1144BD0FD5073F22187B55808F6.tmp' to 'C:/Users/User/Documents/GitHub/RPG/Content/TopDownBP/Blueprints/InventorySystem/InventoryComponent.uasset'
+[2023.11.17-14.34.22:902][ 88]AssetCheck: New page: Asset Save: InventoryComponent
+[2023.11.17-14.34.22:902][ 88]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/InventorySystem/InventoryComponent.InventoryComponent
+[2023.11.17-14.34.24:896][304]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms

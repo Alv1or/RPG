@@ -2624,3 +2624,231 @@ Script call stack:
 [2023.11.19-18.13.38:567][230]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ItemArmorFeet.ItemArmorFeet
 [2023.11.19-18.13.38:567][230]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
 [2023.11.19-18.13.38:567][230]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ItemArmor.ItemArmor
+[2023.11.19-18.17.24:984][979]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.11.19-18.17.24:984][979]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.11.19-18.17.41:144][919]LogContentBrowser: Deferred new asset file creation: NewUserDefinedStruct
+[2023.11.19-18.17.41:158][919]LogContentBrowser: Creating deferred item: NewUserDefinedStruct
+[2023.11.19-18.17.43:013][ 31]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.11.19-18.17.43:013][ 31]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.11.19-18.18.07:662][372]LogContentBrowser: Attempting asset rename: NewUserDefinedStruct -> CharacterStats
+[2023.11.19-18.18.07:674][372]LogContentBrowser: End creating deferred item NewUserDefinedStruct
+[2023.11.19-18.19.46:489][190]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.11.19-18.19.46:489][190]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.11.19-18.21.40:410][682]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/TopDownBP/Blueprints/TopDownCharacter/CharacterStats.CharacterStats
+[2023.11.19-18.22.23:186][750]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.11.19-18.22.23:186][750]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.11.19-18.23.38:689][423]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2023.11.19-18.23.38:701][423]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.055
+[2023.11.19-18.23.38:703][423]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDownBP/Blueprints/TopDownCharacter/CharacterStats] ([1] browsable assets)...
+[2023.11.19-18.23.38:703][423]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Blueprints/TopDownCharacter/CharacterStats]
+[2023.11.19-18.23.38:704][423]LogSavePackage: Moving '../../../../../../Users/THUNDEROBOT/Documents/GitHub/RPG/Saved/CharacterStats_Auto18975534E4E6484E85CA3669F6C4F1D78.tmp' to '../../../../../../Users/THUNDEROBOT/Documents/GitHub/RPG/Saved/Autosaves/Game/TopDownBP/Blueprints/TopDownCharacter/CharacterStats_Auto1.uasset'
+[2023.11.19-18.23.38:705][423]LogFileHelpers: Auto-saving content packages took 0.003
+[2023.11.19-18.25.15:764][713]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.11.19-18.25.15:765][713]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.11.19-18.25.19:534][932]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.11.19-18.25.19:534][932]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.11.19-18.26.53:271][219]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/TopDownCharacter/TopDownCharacter.TopDownCharacter
+[2023.11.19-18.27.16:578][573]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2023.11.19-18.27.16:578][573]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.19-18.27.53:826][207]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2023.11.19-18.27.53:847][207]LogSavePackage: Moving '../../../../../../Users/THUNDEROBOT/Documents/GitHub/RPG/Saved/TopDownExampleMap893B577542E0DC40730BF18EB70FB44B.tmp' to '../../../../../../Users/THUNDEROBOT/Documents/GitHub/RPG/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2023.11.19-18.27.53:873][207]AssetCheck: New page: Asset Save: TopDownExampleMap
+[2023.11.19-18.27.53:873][207]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2023.11.19-18.28.57:082][ 53]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.11.19-18.28.57:082][ 53]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2023.11.19-18.28.57:082][ 53]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.19-18.29.06:505][604]LogTemp: Repeating last play command: Selected Viewport
+[2023.11.19-18.29.06:510][604]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.19-18.29.06:510][604]PIE: New page: PIE session: TopDownExampleMap (20 нояб. 2023 г., 00:29:06)
+[2023.11.19-18.29.06:532][604]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2023.11.19-18.29.06:548][604]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015680s)
+[2023.11.19-18.29.06:549][604]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2023.11.19-18.29.06:549][604]LogPlayLevel: PIE: World Init took: (0.001252s)
+[2023.11.19-18.29.06:549][604]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.017236s)
+[2023.11.19-18.29.06:577][604]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2023.11.19-18.29.06:586][604]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2023.11.19-18.29.06:586][604]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.19-18.29.06:586][604]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.19-18.29.06:586][604]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.19-18.29.06:586][604]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.19-18.29.06:586][604]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.19-18.29.06:586][604]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.19-18.29.06:586][604]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.19-18.29.06:586][604]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.19-18.29.06:586][604]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.19-18.29.06:586][604]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.19-18.29.06:586][604]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.19-18.29.06:586][604]LogAudioMixer: Display: Initializing audio mixer.
+[2023.11.19-18.29.06:591][604]LogAudioMixer: Display: 0: FrontLeft
+[2023.11.19-18.29.06:591][604]LogAudioMixer: Display: 1: FrontRight
+[2023.11.19-18.29.06:600][604]LogAudioMixer: Display: Using Audio Device Наушники (Earbuds X)
+[2023.11.19-18.29.06:600][604]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.19-18.29.06:601][604]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.19-18.29.06:601][604]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.19-18.29.06:601][604]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.11.19-18.29.06:601][604]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.11.19-18.29.06:601][604]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.11.19-18.29.06:601][604]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.11.19-18.29.06:602][604]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.11.19-18.29.06:602][604]LogInit: FAudioDevice initialized.
+[2023.11.19-18.29.06:602][604]LogAudio: Display: Audio Device (ID: 22) registered with world 'TopDownExampleMap'.
+[2023.11.19-18.29.06:611][604]LogLoad: Game class is 'TopDownGameMode_C'
+[2023.11.19-18.29.06:614][604]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2023.11.19-21.29.06
+[2023.11.19-18.29.06:615][604]LogWorld: Bringing up level for play took: 0.003009
+[2023.11.19-18.29.06:615][604]LogOnline: OSS: Creating online subsystem instance for: :Context_53
+[2023.11.19-18.29.06:619][604]PIE: Server logged in
+[2023.11.19-18.29.06:619][604]PIE: Play in editor total start time 0,11 seconds.
+[2023.11.19-18.29.24:142][559]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.19-18.29.24:142][559]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2023.11.19-18.29.24:142][559]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.19-18.29.24:143][559]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.19-18.29.24:155][559]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.19-18.29.24:163][559]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.19-18.29.24:187][559]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.19-18.29.24:188][559]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.11.19-18.29.24:189][559]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.11.19-18.29.24:194][559]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2023.11.19-18.29.24:224][560]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2023.11.19-18.29.57:815][421]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.11.19-18.29.57:830][421]LogContentBrowser: Creating deferred item: NewFolder
+[2023.11.19-18.30.09:031][ 85]LogContentBrowser: Attempting asset rename: NewFolder -> ArmorParentClasses
+[2023.11.19-18.30.09:032][ 85]LogContentBrowser: End creating deferred item NewFolder
+[2023.11.19-18.30.13:931][327]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ArmorParentClasses/ItemArmorWeapon.ItemArmorWeapon_C' ref from Metadata '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ItemArmorWeapon.PackageMetaData'
+[2023.11.19-18.30.13:931][327]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ArmorParentClasses/ItemArmorWeapon.SKEL_ItemArmorWeapon_C' ref from Metadata '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ItemArmorWeapon.PackageMetaData'
+[2023.11.19-18.30.13:931][327]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ArmorParentClasses/ItemArmorWeapon.SKEL_ItemArmorWeapon_C:ReceiveBeginPlay' ref from Metadata '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ItemArmorWeapon.PackageMetaData'
+[2023.11.19-18.30.13:931][327]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ArmorParentClasses/ItemArmorWeapon.SKEL_ItemArmorWeapon_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ItemArmorWeapon.PackageMetaData'
+[2023.11.19-18.30.13:931][327]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ArmorParentClasses/ItemArmorWeapon.SKEL_ItemArmorWeapon_C:ReceiveTick' ref from Metadata '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ItemArmorWeapon.PackageMetaData'
+[2023.11.19-18.30.13:931][327]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ArmorParentClasses/ItemArmorWeapon.SKEL_ItemArmorWeapon_C:UserConstructionScript' ref from Metadata '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ItemArmorWeapon.PackageMetaData'
+[2023.11.19-18.30.13:931][327]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ArmorParentClasses/ItemArmorWeapon.ItemArmorWeapon_C:ReceiveBeginPlay' ref from Metadata '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ItemArmorWeapon.PackageMetaData'
+[2023.11.19-18.30.13:932][327]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ArmorParentClasses/ItemArmor.ItemArmor:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ItemArmor.PackageMetaData'
+[2023.11.19-18.30.13:932][327]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ArmorParentClasses/ItemArmor.SKEL_ItemArmor_C' ref from Metadata '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ItemArmor.PackageMetaData'
+[2023.11.19-18.30.13:932][327]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ArmorParentClasses/ItemArmor.ItemArmor_C' ref from Metadata '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ItemArmor.PackageMetaData'
+[2023.11.19-18.30.13:932][327]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ArmorParentClasses/ItemArmor.ItemArmor:EventGraph.K2Node_Event_0' ref from Metadata '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ItemArmor.PackageMetaData'
+[2023.11.19-18.30.13:932][327]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ArmorParentClasses/ItemArmor.ItemArmor:EventGraph.K2Node_CallParentFunction_0' ref from Metadata '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ItemArmor.PackageMetaData'
+[2023.11.19-18.30.13:932][327]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ArmorParentClasses/ItemArmor.ItemArmor:EventGraph.K2Node_Event_1' ref from Metadata '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ItemArmor.PackageMetaData'
+[2023.11.19-18.30.13:932][327]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ArmorParentClasses/ItemArmor.ItemArmor:EventGraph.K2Node_CallParentFunction_1' ref from Metadata '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ItemArmor.PackageMetaData'
+[2023.11.19-18.30.13:932][327]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ArmorParentClasses/ItemArmor.ItemArmor:EventGraph.K2Node_Event_2' ref from Metadata '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ItemArmor.PackageMetaData'
+[2023.11.19-18.30.13:932][327]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ArmorParentClasses/ItemArmor.ItemArmor:EventGraph.K2Node_CallParentFunction_2' ref from Metadata '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ItemArmor.PackageMetaData'
+[2023.11.19-18.30.13:932][327]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ArmorParentClasses/ItemArmor.SKEL_ItemArmor_C:ReceiveBeginPlay' ref from Metadata '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ItemArmor.PackageMetaData'
+[2023.11.19-18.30.13:932][327]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ArmorParentClasses/ItemArmor.SKEL_ItemArmor_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ItemArmor.PackageMetaData'
+[2023.11.19-18.30.13:932][327]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ArmorParentClasses/ItemArmor.SKEL_ItemArmor_C:ReceiveTick' ref from Metadata '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ItemArmor.PackageMetaData'
+[2023.11.19-18.30.13:932][327]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ArmorParentClasses/ItemArmor.SKEL_ItemArmor_C:UserConstructionScript' ref from Metadata '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ItemArmor.PackageMetaData'
+[2023.11.19-18.30.13:934][327]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ArmorParentClasses/ItemArmorAmulet.ItemArmorAmulet_C' ref from Metadata '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ItemArmorAmulet.PackageMetaData'
+[2023.11.19-18.30.13:934][327]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ArmorParentClasses/ItemArmorAmulet.SKEL_ItemArmorAmulet_C' ref from Metadata '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ItemArmorAmulet.PackageMetaData'
+[2023.11.19-18.30.13:934][327]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ArmorParentClasses/ItemArmorAmulet.SKEL_ItemArmorAmulet_C:ReceiveBeginPlay' ref from Metadata '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ItemArmorAmulet.PackageMetaData'
+[2023.11.19-18.30.13:934][327]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ArmorParentClasses/ItemArmorAmulet.SKEL_ItemArmorAmulet_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ItemArmorAmulet.PackageMetaData'
+[2023.11.19-18.30.13:934][327]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ArmorParentClasses/ItemArmorAmulet.SKEL_ItemArmorAmulet_C:ReceiveTick' ref from Metadata '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ItemArmorAmulet.PackageMetaData'
+[2023.11.19-18.30.13:934][327]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ArmorParentClasses/ItemArmorAmulet.SKEL_ItemArmorAmulet_C:UserConstructionScript' ref from Metadata '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ItemArmorAmulet.PackageMetaData'
+[2023.11.19-18.30.13:934][327]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ArmorParentClasses/ItemArmorAmulet.ItemArmorAmulet_C:ReceiveBeginPlay' ref from Metadata '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ItemArmorAmulet.PackageMetaData'
+[2023.11.19-18.30.13:934][327]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ArmorParentClasses/ItemArmorChest.ItemArmorChest_C' ref from Metadata '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ItemArmorChest.PackageMetaData'
+[2023.11.19-18.30.13:934][327]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ArmorParentClasses/ItemArmorChest.SKEL_ItemArmorChest_C' ref from Metadata '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ItemArmorChest.PackageMetaData'
+[2023.11.19-18.30.13:934][327]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ArmorParentClasses/ItemArmorChest.SKEL_ItemArmorChest_C:ReceiveBeginPlay' ref from Metadata '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ItemArmorChest.PackageMetaData'
+[2023.11.19-18.30.13:934][327]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ArmorParentClasses/ItemArmorChest.SKEL_ItemArmorChest_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ItemArmorChest.PackageMetaData'
+[2023.11.19-18.30.13:934][327]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ArmorParentClasses/ItemArmorChest.SKEL_ItemArmorChest_C:ReceiveTick' ref from Metadata '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ItemArmorChest.PackageMetaData'
+[2023.11.19-18.30.13:934][327]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ArmorParentClasses/ItemArmorChest.SKEL_ItemArmorChest_C:UserConstructionScript' ref from Metadata '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ItemArmorChest.PackageMetaData'
+[2023.11.19-18.30.13:934][327]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ArmorParentClasses/ItemArmorChest.ItemArmorChest_C:ReceiveBeginPlay' ref from Metadata '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ItemArmorChest.PackageMetaData'
+[2023.11.19-18.30.13:935][327]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ArmorParentClasses/ItemArmorFeet.ItemArmorFeet_C' ref from Metadata '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ItemArmorFeet.PackageMetaData'
+[2023.11.19-18.30.13:935][327]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ArmorParentClasses/ItemArmorFeet.SKEL_ItemArmorFeet_C' ref from Metadata '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ItemArmorFeet.PackageMetaData'
+[2023.11.19-18.30.13:935][327]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ArmorParentClasses/ItemArmorFeet.SKEL_ItemArmorFeet_C:ReceiveBeginPlay' ref from Metadata '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ItemArmorFeet.PackageMetaData'
+[2023.11.19-18.30.13:935][327]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ArmorParentClasses/ItemArmorFeet.SKEL_ItemArmorFeet_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ItemArmorFeet.PackageMetaData'
+[2023.11.19-18.30.13:935][327]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ArmorParentClasses/ItemArmorFeet.SKEL_ItemArmorFeet_C:ReceiveTick' ref from Metadata '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ItemArmorFeet.PackageMetaData'
+[2023.11.19-18.30.13:935][327]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ArmorParentClasses/ItemArmorFeet.SKEL_ItemArmorFeet_C:UserConstructionScript' ref from Metadata '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ItemArmorFeet.PackageMetaData'
+[2023.11.19-18.30.13:935][327]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ArmorParentClasses/ItemArmorFeet.ItemArmorFeet_C:ReceiveBeginPlay' ref from Metadata '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ItemArmorFeet.PackageMetaData'
+[2023.11.19-18.30.13:935][327]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ArmorParentClasses/ItemArmorHelmet.ItemArmorHelmet_C' ref from Metadata '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ItemArmorHelmet.PackageMetaData'
+[2023.11.19-18.30.13:935][327]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ArmorParentClasses/ItemArmorHelmet.SKEL_ItemArmorHelmet_C' ref from Metadata '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ItemArmorHelmet.PackageMetaData'
+[2023.11.19-18.30.13:935][327]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ArmorParentClasses/ItemArmorHelmet.ItemArmorHelmet:EventGraph.K2Node_CallParentFunction_0' ref from Metadata '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ItemArmorHelmet.PackageMetaData'
+[2023.11.19-18.30.13:935][327]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ArmorParentClasses/ItemArmorHelmet.ItemArmorHelmet:EventGraph.K2Node_CallParentFunction_1' ref from Metadata '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ItemArmorHelmet.PackageMetaData'
+[2023.11.19-18.30.13:935][327]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ArmorParentClasses/ItemArmorHelmet.ItemArmorHelmet:EventGraph.K2Node_CallParentFunction_2' ref from Metadata '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ItemArmorHelmet.PackageMetaData'
+[2023.11.19-18.30.13:935][327]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ArmorParentClasses/ItemArmorHelmet.ItemArmorHelmet:EventGraph.K2Node_Event_0' ref from Metadata '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ItemArmorHelmet.PackageMetaData'
+[2023.11.19-18.30.13:935][327]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ArmorParentClasses/ItemArmorHelmet.ItemArmorHelmet:EventGraph.K2Node_Event_1' ref from Metadata '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ItemArmorHelmet.PackageMetaData'
+[2023.11.19-18.30.13:935][327]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ArmorParentClasses/ItemArmorHelmet.ItemArmorHelmet:EventGraph.K2Node_Event_2' ref from Metadata '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ItemArmorHelmet.PackageMetaData'
+[2023.11.19-18.30.13:935][327]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ArmorParentClasses/ItemArmorHelmet.ItemArmorHelmet:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ItemArmorHelmet.PackageMetaData'
+[2023.11.19-18.30.13:935][327]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ArmorParentClasses/ItemArmorHelmet.SKEL_ItemArmorHelmet_C:ReceiveBeginPlay' ref from Metadata '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ItemArmorHelmet.PackageMetaData'
+[2023.11.19-18.30.13:935][327]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ArmorParentClasses/ItemArmorHelmet.SKEL_ItemArmorHelmet_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ItemArmorHelmet.PackageMetaData'
+[2023.11.19-18.30.13:935][327]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ArmorParentClasses/ItemArmorHelmet.SKEL_ItemArmorHelmet_C:ReceiveTick' ref from Metadata '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ItemArmorHelmet.PackageMetaData'
+[2023.11.19-18.30.13:935][327]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ArmorParentClasses/ItemArmorHelmet.SKEL_ItemArmorHelmet_C:UserConstructionScript' ref from Metadata '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ItemArmorHelmet.PackageMetaData'
+[2023.11.19-18.30.13:935][327]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ArmorParentClasses/ItemArmorHelmet.ItemArmorHelmet_C:ReceiveBeginPlay' ref from Metadata '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ItemArmorHelmet.PackageMetaData'
+[2023.11.19-18.30.13:936][327]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ArmorParentClasses/ItemArmorLegs.ItemArmorLegs_C' ref from Metadata '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ItemArmorLegs.PackageMetaData'
+[2023.11.19-18.30.13:936][327]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ArmorParentClasses/ItemArmorLegs.SKEL_ItemArmorLegs_C' ref from Metadata '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ItemArmorLegs.PackageMetaData'
+[2023.11.19-18.30.13:936][327]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ArmorParentClasses/ItemArmorLegs.SKEL_ItemArmorLegs_C:ReceiveBeginPlay' ref from Metadata '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ItemArmorLegs.PackageMetaData'
+[2023.11.19-18.30.13:936][327]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ArmorParentClasses/ItemArmorLegs.SKEL_ItemArmorLegs_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ItemArmorLegs.PackageMetaData'
+[2023.11.19-18.30.13:936][327]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ArmorParentClasses/ItemArmorLegs.SKEL_ItemArmorLegs_C:ReceiveTick' ref from Metadata '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ItemArmorLegs.PackageMetaData'
+[2023.11.19-18.30.13:936][327]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ArmorParentClasses/ItemArmorLegs.SKEL_ItemArmorLegs_C:UserConstructionScript' ref from Metadata '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ItemArmorLegs.PackageMetaData'
+[2023.11.19-18.30.13:936][327]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ArmorParentClasses/ItemArmorLegs.ItemArmorLegs_C:ReceiveBeginPlay' ref from Metadata '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ItemArmorLegs.PackageMetaData'
+[2023.11.19-18.30.13:936][327]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ArmorParentClasses/ItemArmorRing1.ItemArmorRing1_C' ref from Metadata '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ItemArmorRing1.PackageMetaData'
+[2023.11.19-18.30.13:936][327]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ArmorParentClasses/ItemArmorRing1.SKEL_ItemArmorRing1_C' ref from Metadata '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ItemArmorRing1.PackageMetaData'
+[2023.11.19-18.30.13:936][327]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ArmorParentClasses/ItemArmorRing1.SKEL_ItemArmorRing1_C:ReceiveBeginPlay' ref from Metadata '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ItemArmorRing1.PackageMetaData'
+[2023.11.19-18.30.13:936][327]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ArmorParentClasses/ItemArmorRing1.SKEL_ItemArmorRing1_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ItemArmorRing1.PackageMetaData'
+[2023.11.19-18.30.13:936][327]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ArmorParentClasses/ItemArmorRing1.SKEL_ItemArmorRing1_C:ReceiveTick' ref from Metadata '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ItemArmorRing1.PackageMetaData'
+[2023.11.19-18.30.13:936][327]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ArmorParentClasses/ItemArmorRing1.SKEL_ItemArmorRing1_C:UserConstructionScript' ref from Metadata '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ItemArmorRing1.PackageMetaData'
+[2023.11.19-18.30.13:936][327]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ArmorParentClasses/ItemArmorRing1.ItemArmorRing1_C:ReceiveBeginPlay' ref from Metadata '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ItemArmorRing1.PackageMetaData'
+[2023.11.19-18.30.13:937][327]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ArmorParentClasses/ItemArmorRing2.ItemArmorRing2_C' ref from Metadata '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ItemArmorRing2.PackageMetaData'
+[2023.11.19-18.30.13:937][327]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ArmorParentClasses/ItemArmorRing2.SKEL_ItemArmorRing2_C' ref from Metadata '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ItemArmorRing2.PackageMetaData'
+[2023.11.19-18.30.13:937][327]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ArmorParentClasses/ItemArmorRing2.SKEL_ItemArmorRing2_C:ReceiveBeginPlay' ref from Metadata '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ItemArmorRing2.PackageMetaData'
+[2023.11.19-18.30.13:937][327]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ArmorParentClasses/ItemArmorRing2.SKEL_ItemArmorRing2_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ItemArmorRing2.PackageMetaData'
+[2023.11.19-18.30.13:937][327]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ArmorParentClasses/ItemArmorRing2.SKEL_ItemArmorRing2_C:ReceiveTick' ref from Metadata '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ItemArmorRing2.PackageMetaData'
+[2023.11.19-18.30.13:937][327]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ArmorParentClasses/ItemArmorRing2.SKEL_ItemArmorRing2_C:UserConstructionScript' ref from Metadata '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ItemArmorRing2.PackageMetaData'
+[2023.11.19-18.30.13:937][327]LogMetaData: Removing '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ArmorParentClasses/ItemArmorRing2.ItemArmorRing2_C:ReceiveBeginPlay' ref from Metadata '/Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ItemArmorRing2.PackageMetaData'
+[2023.11.19-18.30.13:971][327]LogSavePackage: Moving '../../../../../../Users/THUNDEROBOT/Documents/GitHub/RPG/Saved/ItemArmorWeaponB4DA09A143DA52419168B4BF9898EF39.tmp' to '../../../../../../Users/THUNDEROBOT/Documents/GitHub/RPG/Content/TopDownBP/Blueprints/InventorySystem/ItemComponents/ArmorParentClasses/ItemArmorWeapon.uasset'
+[2023.11.19-18.30.13:977][327]LogSavePackage: Moving '../../../../../../Users/THUNDEROBOT/Documents/GitHub/RPG/Saved/ItemArmor6D0842654AD0FB6DF9AD9481B6C50EFB.tmp' to '../../../../../../Users/THUNDEROBOT/Documents/GitHub/RPG/Content/TopDownBP/Blueprints/InventorySystem/ItemComponents/ArmorParentClasses/ItemArmor.uasset'
+[2023.11.19-18.30.13:984][327]LogSavePackage: Moving '../../../../../../Users/THUNDEROBOT/Documents/GitHub/RPG/Saved/ItemArmorAmulet22A87DE14BC8AB0761332696E2389464.tmp' to '../../../../../../Users/THUNDEROBOT/Documents/GitHub/RPG/Content/TopDownBP/Blueprints/InventorySystem/ItemComponents/ArmorParentClasses/ItemArmorAmulet.uasset'
+[2023.11.19-18.30.13:992][327]LogSavePackage: Moving '../../../../../../Users/THUNDEROBOT/Documents/GitHub/RPG/Saved/ItemArmorChest6AA8E1CA48BC2914AB1BBEB25FF2D812.tmp' to '../../../../../../Users/THUNDEROBOT/Documents/GitHub/RPG/Content/TopDownBP/Blueprints/InventorySystem/ItemComponents/ArmorParentClasses/ItemArmorChest.uasset'
+[2023.11.19-18.30.13:998][327]LogSavePackage: Moving '../../../../../../Users/THUNDEROBOT/Documents/GitHub/RPG/Saved/ItemArmorFeet185B01D345A7FEFEA85D44BD80CE1D57.tmp' to '../../../../../../Users/THUNDEROBOT/Documents/GitHub/RPG/Content/TopDownBP/Blueprints/InventorySystem/ItemComponents/ArmorParentClasses/ItemArmorFeet.uasset'
+[2023.11.19-18.30.14:003][327]LogSavePackage: Moving '../../../../../../Users/THUNDEROBOT/Documents/GitHub/RPG/Saved/ItemArmorHelmet8E99BED04710A27EF469D1A54AE4976C.tmp' to '../../../../../../Users/THUNDEROBOT/Documents/GitHub/RPG/Content/TopDownBP/Blueprints/InventorySystem/ItemComponents/ArmorParentClasses/ItemArmorHelmet.uasset'
+[2023.11.19-18.30.14:010][327]LogSavePackage: Moving '../../../../../../Users/THUNDEROBOT/Documents/GitHub/RPG/Saved/ItemArmorLegsCC2001D3462BFB08649098B6D8F52AC8.tmp' to '../../../../../../Users/THUNDEROBOT/Documents/GitHub/RPG/Content/TopDownBP/Blueprints/InventorySystem/ItemComponents/ArmorParentClasses/ItemArmorLegs.uasset'
+[2023.11.19-18.30.14:016][327]LogSavePackage: Moving '../../../../../../Users/THUNDEROBOT/Documents/GitHub/RPG/Saved/ItemArmorRing17AB6867D4BBB862472F1228EC0D6F033.tmp' to '../../../../../../Users/THUNDEROBOT/Documents/GitHub/RPG/Content/TopDownBP/Blueprints/InventorySystem/ItemComponents/ArmorParentClasses/ItemArmorRing1.uasset'
+[2023.11.19-18.30.14:023][327]LogSavePackage: Moving '../../../../../../Users/THUNDEROBOT/Documents/GitHub/RPG/Saved/ItemArmorRing2C95444DB4DF22EDC1A6412BACF64F7B4.tmp' to '../../../../../../Users/THUNDEROBOT/Documents/GitHub/RPG/Content/TopDownBP/Blueprints/InventorySystem/ItemComponents/ArmorParentClasses/ItemArmorRing2.uasset'
+[2023.11.19-18.30.14:204][327]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2023.11.19-18.30.14:233][327]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.11.19-18.30.14:255][327]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.11.19-18.30.14:276][327]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2023.11.19-18.30.14:299][327]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.11.19-18.30.14:321][327]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.11.19-18.30.14:342][327]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.11.19-18.30.14:366][327]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.11.19-18.30.14:388][327]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.11.19-18.30.14:423][327]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.11.19-18.30.14:446][327]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.11.19-18.30.14:509][327]LogSavePackage: Moving '../../../../../../Users/THUNDEROBOT/Documents/GitHub/RPG/Saved/TopDownControllerBEF65BA342AC71D3F7680F866E460E79.tmp' to '../../../../../../Users/THUNDEROBOT/Documents/GitHub/RPG/Content/TopDownBP/Blueprints/TopDownController.uasset'
+[2023.11.19-18.30.14:521][327]LogSavePackage: Moving '../../../../../../Users/THUNDEROBOT/Documents/GitHub/RPG/Saved/EquipbleItemBAAB793448EB00F3DF9AD1BCAA7A41AB.tmp' to '../../../../../../Users/THUNDEROBOT/Documents/GitHub/RPG/Content/TopDownBP/Blueprints/InventorySystem/ItemComponents/EquipbleItem.uasset'
+[2023.11.19-18.30.14:532][327]LogSavePackage: Moving '../../../../../../Users/THUNDEROBOT/Documents/GitHub/RPG/Saved/CharacterEquipmentSlot28FE760C40AF7D82D2B5259A05140A78.tmp' to '../../../../../../Users/THUNDEROBOT/Documents/GitHub/RPG/Content/TopDownBP/Blueprints/InventorySystem/InventoryUI/CharacterEquipmentSlot.uasset'
+[2023.11.19-18.30.14:552][327]LogSavePackage: Moving '../../../../../../Users/THUNDEROBOT/Documents/GitHub/RPG/Saved/TestSubject80625489403B679892B6AA9D0F0AA3D8.tmp' to '../../../../../../Users/THUNDEROBOT/Documents/GitHub/RPG/Content/TopDownBP/Blueprints/DynamicUI/TestSubject.uasset'
+[2023.11.19-18.30.14:631][327]AssetCheck: New page: Asset Save: multiple assets
+[2023.11.19-18.30.14:631][327]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/TopDownController.TopDownController
+[2023.11.19-18.30.14:631][327]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ArmorParentClasses/ItemArmorHelmet.ItemArmorHelmet
+[2023.11.19-18.30.14:631][327]LogContentValidation: Display: Validating WidgetBlueprint /Game/TopDownBP/Blueprints/InventorySystem/InventoryUI/CharacterEquipmentSlot.CharacterEquipmentSlot
+[2023.11.19-18.30.14:632][327]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/EquipbleItem.EquipbleItem
+[2023.11.19-18.30.14:632][327]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/DynamicUI/TestSubject.TestSubject
+[2023.11.19-18.30.14:632][327]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ArmorParentClasses/ItemArmorLegs.ItemArmorLegs
+[2023.11.19-18.30.14:632][327]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ArmorParentClasses/ItemArmorAmulet.ItemArmorAmulet
+[2023.11.19-18.30.14:632][327]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ArmorParentClasses/ItemArmorWeapon.ItemArmorWeapon
+[2023.11.19-18.30.14:632][327]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ArmorParentClasses/ItemArmorChest.ItemArmorChest
+[2023.11.19-18.30.14:632][327]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ArmorParentClasses/ItemArmorRing2.ItemArmorRing2
+[2023.11.19-18.30.14:632][327]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ArmorParentClasses/ItemArmorRing1.ItemArmorRing1
+[2023.11.19-18.30.14:632][327]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ArmorParentClasses/ItemArmorFeet.ItemArmorFeet
+[2023.11.19-18.30.14:632][327]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ArmorParentClasses/ItemArmor.ItemArmor
+[2023.11.19-18.30.17:181][466]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ArmorParentClasses/ItemArmor.ItemArmor
+[2023.11.19-18.30.59:047][844]BlueprintLog: New page: Compile ItemArmor
+[2023.11.19-18.30.59:123][844]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2023.11.19-18.33.03:326][199]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2023.11.19-18.33.03:384][199]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.11.19-18.33.03:406][199]LogSavePackage: Moving '../../../../../../Users/THUNDEROBOT/Documents/GitHub/RPG/Saved/TopDownExampleMap1EE0F2C446A8C876411145A291BCB95D.tmp' to '../../../../../../Users/THUNDEROBOT/Documents/GitHub/RPG/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2023.11.19-18.33.03:416][199]LogFileHelpers: Saving map 'TopDownExampleMap' took 0.057
+[2023.11.19-18.33.03:422][199]LogSavePackage: Moving '../../../../../../Users/THUNDEROBOT/Documents/GitHub/RPG/Saved/ItemArmor18FD546E47EC17E2219174963B626038.tmp' to '../../../../../../Users/THUNDEROBOT/Documents/GitHub/RPG/Content/TopDownBP/Blueprints/InventorySystem/ItemComponents/ArmorParentClasses/ItemArmor.uasset'
+[2023.11.19-18.33.03:424][199]LogSavePackage: Moving '../../../../../../Users/THUNDEROBOT/Documents/GitHub/RPG/Saved/CharacterStats87DEC8E94CD681E85D047FABB22792F7.tmp' to '../../../../../../Users/THUNDEROBOT/Documents/GitHub/RPG/Content/TopDownBP/Blueprints/TopDownCharacter/CharacterStats.uasset'
+[2023.11.19-18.33.03:445][199]AssetCheck: New page: Asset Save: multiple assets
+[2023.11.19-18.33.03:445][199]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2023.11.19-18.33.03:445][199]LogContentValidation: Display: Validating UserDefinedStruct /Game/TopDownBP/Blueprints/TopDownCharacter/CharacterStats.CharacterStats
+[2023.11.19-18.33.03:445][199]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/InventorySystem/ItemComponents/ArmorParentClasses/ItemArmor.ItemArmor
+[2023.11.19-18.33.39:901][860]BlueprintLog: New page: Compile EquipbleItem
+[2023.11.19-18.33.39:945][860]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2023.11.19-18.33.40:969][916]BlueprintLog: New page: Compile TopDownController
+[2023.11.19-18.33.41:039][916]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2023.11.19-18.34.20:304][ 55]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2023.11.19-18.34.20:876][ 86]LogEditorViewport: Clicking on Actor (LMB): TopDownCharacter_C (TopDownCharacter2)
+[2023.11.19-18.34.22:172][159]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/TopDownCharacter/TopDownCharacter.TopDownCharacter
+[2023.11.19-18.35.07:388][739]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2023.11.19-18.35.07:409][739]LogSavePackage: Moving '../../../../../../Users/THUNDEROBOT/Documents/GitHub/RPG/Saved/TopDownExampleMapE51E58294233CEE7759B44A40C50C5B9.tmp' to '../../../../../../Users/THUNDEROBOT/Documents/GitHub/RPG/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2023.11.19-18.35.07:429][739]AssetCheck: New page: Asset Save: TopDownExampleMap
+[2023.11.19-18.35.07:429][739]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2023.11.19-18.35.09:642][867]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms

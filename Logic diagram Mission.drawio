@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-13T15:23:34.996Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="RXtNsDy5fUmh0aS41Q5g" version="22.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-13T15:25:10.157Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="IkhcIenbU9DuwoQVlMOO" version="22.1.8" type="github">
   <diagram name="Page-1" id="ySlSw5_M_sLU7GGw0Z9M">
-    <mxGraphModel dx="1687" dy="2050" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="1918" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -40,10 +40,10 @@
         <mxCell id="usbiAw8nYYeh4ZXMif26-5" value="Изменить текущее задание персонажа" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="90" y="430" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BeVRUTkcqsDYXYFoZC7m-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zfuQiPJrvHgYKoafhzGC-7" target="usbiAw8nYYeh4ZXMif26-5">
+        <mxCell id="nojvzxJgjBBOSqv2VVTp-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zfuQiPJrvHgYKoafhzGC-7" target="nojvzxJgjBBOSqv2VVTp-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zfuQiPJrvHgYKoafhzGC-7" value="Триггер задания извлекает свое задание и удаляет себя" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="zfuQiPJrvHgYKoafhzGC-7" value="Триггер задания извлекает свое задание" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="90" y="40" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="zfuQiPJrvHgYKoafhzGC-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.993;entryY=0.617;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" target="usbiAw8nYYeh4ZXMif26-5" edge="1">
@@ -108,6 +108,12 @@
           <mxGeometry x="-0.0154" relative="1" as="geometry">
             <mxPoint x="9" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="nojvzxJgjBBOSqv2VVTp-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nojvzxJgjBBOSqv2VVTp-1" target="usbiAw8nYYeh4ZXMif26-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nojvzxJgjBBOSqv2VVTp-1" value="Триггер задания удаляет себя" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="230" width="120" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

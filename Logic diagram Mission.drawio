@@ -1,0 +1,59 @@
+<mxfile host="app.diagrams.net" modified="2023-12-13T14:58:42.615Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="nVig9Q7oDYGLK7sCxOZA" version="22.1.8" type="github">
+  <diagram name="Page-1" id="ySlSw5_M_sLU7GGw0Z9M">
+    <mxGraphModel dx="1195" dy="624" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="usbiAw8nYYeh4ZXMif26-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="usbiAw8nYYeh4ZXMif26-1" target="usbiAw8nYYeh4ZXMif26-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="usbiAw8nYYeh4ZXMif26-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="usbiAw8nYYeh4ZXMif26-1" target="usbiAw8nYYeh4ZXMif26-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="usbiAw8nYYeh4ZXMif26-1" value="Начало" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="90" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="usbiAw8nYYeh4ZXMif26-2" value="Конец" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="530" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="usbiAw8nYYeh4ZXMif26-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="usbiAw8nYYeh4ZXMif26-3" target="usbiAw8nYYeh4ZXMif26-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="usbiAw8nYYeh4ZXMif26-3" value="Взаимодействие персонажа с предметом" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="usbiAw8nYYeh4ZXMif26-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="usbiAw8nYYeh4ZXMif26-4" target="usbiAw8nYYeh4ZXMif26-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="usbiAw8nYYeh4ZXMif26-17" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;ДА&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="usbiAw8nYYeh4ZXMif26-9">
+          <mxGeometry x="-0.0154" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="usbiAw8nYYeh4ZXMif26-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="usbiAw8nYYeh4ZXMif26-4" target="usbiAw8nYYeh4ZXMif26-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="usbiAw8nYYeh4ZXMif26-16" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;НЕТ&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="usbiAw8nYYeh4ZXMif26-10">
+          <mxGeometry x="-0.6486" y="1" relative="1" as="geometry">
+            <mxPoint y="85" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="usbiAw8nYYeh4ZXMif26-4" value="&lt;div&gt;Изменяет задание&lt;/div&gt;&lt;div&gt;персонажа&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="240" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="usbiAw8nYYeh4ZXMif26-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="usbiAw8nYYeh4ZXMif26-5" target="usbiAw8nYYeh4ZXMif26-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="usbiAw8nYYeh4ZXMif26-5" value="Изменить текущее задание персонажа" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="usbiAw8nYYeh4ZXMif26-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="usbiAw8nYYeh4ZXMif26-7" target="usbiAw8nYYeh4ZXMif26-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="usbiAw8nYYeh4ZXMif26-7" value="Взаимодействие с коллизией триггера задания" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-13T15:10:06.656Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="gvWHizgJItC6Lvxm0iVb" version="22.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-13T15:11:01.908Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="BCvYygA3pqedlIIQDOaR" version="22.1.8" type="github">
   <diagram name="Page-1" id="ySlSw5_M_sLU7GGw0Z9M">
     <mxGraphModel dx="1195" dy="1793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -20,7 +20,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="usbiAw8nYYeh4ZXMif26-3" value="Взаимодействие персонажа с предметом" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="354" y="100" width="120" height="60" as="geometry" />
+          <mxGeometry x="382" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="usbiAw8nYYeh4ZXMif26-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="usbiAw8nYYeh4ZXMif26-4" edge="1">
           <mxGeometry relative="1" as="geometry">

@@ -7,4 +7,5 @@ https://app.milanote.com/1R9TCx1jxpzG4s?p=EWkc4WGhXEv |
 https://app.milanote.com/1R9TYb1jxpzG4X?p=510Ny2ZFvUJ |
 https://app.milanote.com/1R9UbF1jxpzG5m?p=eT7Dug4ftVN |
 https://app.milanote.com/1R9Uye1jxpzG5L?p=fbbhaUKioEP |
-https://app.milanote.com/1R9Uy01jxpzG5K?p=8R5XCduEupp
+https://app.milanote.com/1R9Uy01jxpzG5K?p=8R5XCduEupp |
+Диаграмма механики заданий https://app.milanote.com/1Rdfqs1A1xJQ38?p=5afhmnKRhnO
